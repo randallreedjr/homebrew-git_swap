@@ -1,8 +1,8 @@
 class GitSwap < Formula
   desc "git_swap is a command line utility to easily swap between git profiles"
   homepage "https://github.com/randallreedjr/git_swap"
-  url "https://github.com/randallreedjr/git_swap/archive/refs/tags/v1.1.4.tar.gz"
-  sha256 "381f0009f52bb5d0a511ddb85444e2aeee91ab937780cbbacab62b8f46b4d521"
+  url "https://github.com/randallreedjr/git_swap/archive/refs/tags/v1.1.5.tar.gz"
+  sha256 "9c61a817ee5475210fcfd7bc821f7b78a8fd59260fbf6eccfd598b76d3a3b385"
   license "MIT"
 
   def install
